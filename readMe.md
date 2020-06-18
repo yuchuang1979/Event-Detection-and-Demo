@@ -1,4 +1,4 @@
-This is a project to show several types of indoor crowd events by using motion tracking data.
+This is a project to show and detect several types of indoor crowd events by using motion tracking data.
 
 It contains the following files/folders:
 - readMotionFile, C++ code to read motion data to process
